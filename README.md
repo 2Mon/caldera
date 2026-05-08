@@ -16,3 +16,11 @@ Caldera is built around a 110w Supervolcano heater with a CNC Copper heat block.
 
 ## Bom
 Found in BOM.csv
+
+# Acknowledgements
+
+Huge thanks to these awesome people for giving me advice and feedback on my design
+
+* @bagelthedev
+* @tortlegod
+* @burgo_enemy_of_thelettuce
