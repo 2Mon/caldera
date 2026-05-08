@@ -40,6 +40,30 @@ I added features to allow the pt1000 and heater to fit in, and cleaned up the ca
 
 Here you can see something close to the final heater block design. I added holes for grubscrews to clamp the heater as well as mounting holes for the heatsink mounts. 
 
+About the supervolcano adapter. JLC does not like drilling 2mm holes 51mm long. So instead ill be using an m6 tap all the way through the part to create a 2mm hole. nice! and its cheap too. This also gives me a really nice mating surface for the nozzle so overall really helpful.
+
 **Total time spent: 6 hours**
 
+# Heatsink Design 5/7/26
 
+I started this project thinking that I would make the hotend air cooled. I realized pretty quickly that that wouldnt work very well for a number of reasons. If the filament path was centered in the heatsink, then there wouldnt be much of an issue with turning a decent heatsink. But since the filament path is not centered, turning it would be literally impossible. You can see here how difficult it would be to turn that. 
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c2c0463d-f1d6-41dc-ba1d-3af438353bee" />
+
+I ended up switching to a new idea. Conduction! why have heatsink fins when you can have a big block of metal for a toolhead. ok very cool! 
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/2500d532-cffc-4bd9-9ec7-269b0491c360" />
+
+You can see the big block here ^^
+
+The way the heatsink is mounted is pretty interesting IMO. I am using two SLM Titanium arms to connect the heatsink to the block. Since titanium has fairly low heat conductivity, its pretty perfect for this. The geometry also helps a lot with stopping excess heat from going into the block. You can see how everything connects together with m2 screws here. 
+
+<img  height="600" alt="image" src="https://github.com/user-attachments/assets/7bb0ef7d-b67a-463c-9f41-bab05f1dff24" />
+
+I designed in some interesting geometry on the connector itself to try to minimise contact area between the block and the connector. it kinda looks like a castle.  
+
+<img width="1722" height="1230" alt="image" src="https://github.com/user-attachments/assets/0041c796-8ffc-4daf-94dc-1e84df4ca0ae" />
+
+Im using a standard v6 heatbreak in this hotend. It has a smooth side and a threaded side, which lets me use my fancy mounting style accurately. yay! 
+
+**Total time spent: 4 hours**
