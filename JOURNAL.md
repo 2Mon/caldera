@@ -40,6 +40,6 @@ I added features to allow the pt1000 and heater to fit in, and cleaned up the ca
 
 Here you can see something close to the final heater block design. I added holes for grubscrews to clamp the heater as well as mounting holes for the heatsink mounts. 
 
-**Total time spent: 3 hours**
+**Total time spent: 6 hours**
 
 
