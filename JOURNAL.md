@@ -67,3 +67,14 @@ I designed in some interesting geometry on the connector itself to try to minimi
 Im using a standard v6 heatbreak in this hotend. It has a smooth side and a threaded side, which lets me use my fancy mounting style accurately. yay! 
 
 **Total time spent: 4 hours**
+
+# Polish | 5/8/26
+
+I spent this session polishing the design. This includes assembling everything in cad, thinking about a real life assembly process, and making a couple renders of the project. 
+
+Here you can see how the entire design comes together. The filament path is like this: Heatbreak -> Supervolcano adapter -> Nozzle. Overall really simple. You can also see how close together everything else is in this view, which includes the heater, thermistor, and filament path. You can also see how efficient the heatbreak mounting is. yay!
+
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/01282afc-9992-4b99-a3da-0b36906c2adc" />
+
+**Total time spent: 2 hours**
+
