@@ -44,7 +44,7 @@ About the supervolcano adapter. JLC does not like drilling 2mm holes 51mm long. 
 
 **Total time spent: 6 hours**
 
-# Heatsink Design 5/7/26
+# Heatsink Design | 5/7/26
 
 I started this project thinking that I would make the hotend air cooled. I realized pretty quickly that that wouldnt work very well for a number of reasons. If the filament path was centered in the heatsink, then there wouldnt be much of an issue with turning a decent heatsink. But since the filament path is not centered, turning it would be literally impossible. You can see here how difficult it would be to turn that. 
 
