@@ -3,7 +3,7 @@
 </p>
 
 # Caldera
-A high performance, lightweight, CNC machined hotend designed for fast printing at high speeds
+A high performance, lightweight, CNC machined hotend designed for high speed printing
 
 Caldera is built around a 110w Supervolcano heater with a CNC Copper heat block. The goal of this hotend is to maximize melt zone while keeping weight to a minimum.
 
